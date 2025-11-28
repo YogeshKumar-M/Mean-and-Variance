@@ -96,6 +96,9 @@ plot2d3('gnn',r);
 
 # Calculation:
 
+![WhatsApp Image 2025-11-28 at 08 11 25_37b30cb2](https://github.com/user-attachments/assets/2d8699d6-72a6-4dc0-84aa-2b9708232a1e)
+
+![WhatsApp Image 2025-11-28 at 08 11 25_b7b0f1a0](https://github.com/user-attachments/assets/47ef77dc-d7f1-49ec-9756-da520b1d9bab)
 
 
 # Result
